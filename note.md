@@ -25,4 +25,4 @@ COMMIT;
 > 以上sql会插入name为111和333的两条记录，不会插入222.
 
 
-999. [jdbc事务、保存点实践源码](../Java-deep-study/code/jdbc-batch-operate)
+999. [jdbc事务、保存点实践源码](/Java-deep-study/code/jdbc-batch-operate)
